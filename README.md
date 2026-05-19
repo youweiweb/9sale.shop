@@ -1,5 +1,5 @@
 # 9sale.shop
-php跨境多商户开源电商系统
+php跨境多商户开源电商独立站系统
 # demo: https://9sale.shop
 # 多商户建站系统
 # 跨境独立站
